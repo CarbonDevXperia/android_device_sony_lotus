@@ -55,7 +55,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/lotus/include
 
 # Bootanimation
 PRODUCT_COPY_FILES += \
-        $(LOCAL_PATH)/../../../vendor/cm/prebuilt/common/bootanimation/320.zip:system/media/bootanimation.zip
+        $(LOCAL_PATH)/../../../vendor/carbon/prebuilt/common/bootanimation/320.zip:system/media/bootanimation.zip
 
 # TWRP
 PRODUCT_COPY_FILES += \
