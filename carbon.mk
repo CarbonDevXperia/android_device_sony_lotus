@@ -1,4 +1,4 @@
-$(call inherit-product, device/sony/kumquat/full_kumquat.mk)
+$(call inherit-product, device/sony/lotus/full_lotus.mk)
 
 # Inherit Carbon common Phone stuff.
 $(call inherit-product, vendor/carbon/config/common_phone.mk)
